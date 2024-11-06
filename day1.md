@@ -1,6 +1,7 @@
-From the beginning of our section our mentor gives the tools that may help in coding. And it was some of the familiar and
+```From the beginning of our section our mentor gives the tools that may help in coding. And it was some of the familiar and
 unfamiliar tools. Which include;
-i. Typing Club
+```
+#i. Typing Club
    This will help to improve typing skills and it helps in the overall work.
 ii. Google docs
    We can make documents and edit them. It is like ms word application.
