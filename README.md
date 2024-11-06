@@ -13,8 +13,12 @@ iii. Google sheets
     We can make sheets like excel. It also include various tools. It allows to analyse data from multiple sources.
 iv. Google Slides
     We can prepare slides for presentations.
-v. Visual Studio Code
-vi. overleaf
+v. Integrated Development Environment
+   IDE is software that combines commonly used developer ttols into a graphical user interphase application. It is combination of tools like a code editor, code compiler and code debugger. It is commonly used by programmers and software developers to make their programming easier.
+Visual Studio Code (VSC)
+VSE used for building and debugging modern web and cloud applications.
+vi. Overleaf
+Overleaf is used for writing, editing and publishing scientific documents. We can create CV by using different templates.
 vii. Github
 He explained the importance of making a linkedin ID.
 ```
