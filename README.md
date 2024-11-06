@@ -3,7 +3,9 @@
 ### MCOM- FINANCE 3+ YEARS EXPERIENCE IN THE FEILD
 ```
 Class starts on 28/10/2024
-This is my first day in ICT Academy Kerala. I am from a different background, that is i qualified Masters in Commerce and experience in related field. On the time i had working in Accounting section i had dealt with different types of datas regarding accounts. From the insight of research mind i searched for a different platform that i have never experienced earlier. 
+That was my first day in ICT Academy Kerala. I am from a different background, that is i qualified Masters in Commerce and experience
+in related field. On the time i had working in Accounting section i had dealt with different types of datas regarding accounts. From
+the insight of research mind i searched for a different platform that i have never experienced earlier. 
 It's an introductory part in which the mentor gives the tools that help in coding. And it was some of the familiar and unfamiliar tools. Which include;
 i. Typing Club
    This will help to improve typing skills and it helps in the overall work.
