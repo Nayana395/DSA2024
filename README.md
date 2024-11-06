@@ -3,7 +3,7 @@
 ### MCOM- FINANCE 3+ YEARS EXPERIENCE IN THE FEILD
 ```
 Class starts on 28/10/2024
-This is my first day in ICT Academy Kerala. I am from a different background, that is i am not related in a coding feild.
+This is my first day in ICT Academy Kerala. I am from a different background, that is i qualified Masters in Commerce and experience in related field. So i am curious about
 It's an introductory part in which the mentor gives the tools that help in coding. And it was some of the familiar and unfamiliar tools. Which include;
 i. Typing Club
    This will help to improve typing skills and it helps in the overall work.
@@ -22,5 +22,5 @@ Overleaf is used for writing, editing and publishing scientific documents. We ca
 vii. Github
 Github is a developer platform that allows developers to create, store, manage and share their code.
 He explained the importance of making a linkedin ID.
-https://sl.bing.net/chcw0ZA7wfk
+
 ```
