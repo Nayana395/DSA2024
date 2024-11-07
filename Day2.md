@@ -25,3 +25,12 @@ Turing Test is a widely recognized for evaluating a machines ability to demonstr
 ```
 Artificial General Intelligence is a type of Artificial Intelligence that matches human cognitive capabilities across a wide range of cognitive tasks.
 ```
+### Deep Learning
+```
+Deep learning in a subset of machine learning that uses multilayered neural networks, known as deep neural networks to stimulate the complex decision making power of the human brain.
+Deep learing models use three or more layers often hundred or thousands to train the models. This allows deep learning models to handle vast amounts of unstructured data and extract features and relationships needed to make accurate outputs.
+```
+### Data Science
+```
+Data Science is an interdisciplinary field that uses statistics, computer science, artificial intelligence, machine learning, visualization, etc.
+```
