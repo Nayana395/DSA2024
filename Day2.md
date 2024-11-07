@@ -1,7 +1,7 @@
 # Day 2
 ## 30/10/2024
 
-### Enigma Mahcine
+### Enigma Machine
 ```
 The Enigma Machine is a cipher device developed and used in the early-to-mid  20th century to protect commercial, diplomatic and military communication.
 During World War II German military used it because it was considered so secure that it was used to enipher the most top-secret messages.
