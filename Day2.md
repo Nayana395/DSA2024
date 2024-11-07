@@ -38,4 +38,8 @@ Data Science is an interdisciplinary field that uses statistics, computer scienc
 ```
 Machine Learning is the field of study that gives computers the capability to learn without being explicitly programmed.
 It can be divided into two: Supervised Language and Unsupervised Language.
-Supervised Language: 
+Supervised Language: Supervised language is a type of machine learning algorithm that learns from labeled data. Labeled data is data that has be tagged with a correct answer or classification.
+** Types of Supervised Learning **
+Supervised learning is classified into two categories of algorithms: 
+i. Regression: A regression problem is when the output variable is a real value, such as “dollars” or “weight”.
+ii. Classification: A classification problem is when the output variable is a category, such as “Red” or “blue” , “disease” or “no disease”.
