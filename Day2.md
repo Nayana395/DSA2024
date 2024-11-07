@@ -14,7 +14,7 @@ For this rotor mechanism was used.
 The ability of the nervous system to change its activity in response to intrinsic or extrinsic stimuli by reorganising its structure, functions or connections after injuries susch as stroke or traumatic brain injury.
 A period of reduced interest and funding for artificial intelligence (AI) research and development between 1950-2005 called AI winter.
 ```
-### The Nobel Price in Physics 2024 was awarded to JOHN.J.JOPFIELD and gEOFFREY E hINTON for foundational discoveries and inventions that enable machine learning with Artificial Neural Network.
+### The Nobel Price in Physics 2024 was awarded to JOHN.J.JOPFIELD and GEOFFREY E HINTON for foundational discoveries and inventions that enable machine learning with Artificial Neural Network.
 ### DRPA Grand Challenge
 ```
 DRPA Grand Challenge was a price based competition to attract performers and ideas and encourage collaboration across diverse fields.
@@ -40,7 +40,7 @@ Data Science is an interdisciplinary field that uses statistics, computer scienc
 ```
 Machine Learning is the field of study that gives computers the capability to learn without being explicitly programmed.
 It can be divided into two: Supervised Language and Unsupervised Language.
-1. Supervised Language: Supervised language is a type of machine learning algorithm that learns from labeled data. Labeled data is data that has be tagged with a correct answer or classification.
+1. Supervised Learning: Supervised learning is a type of machine learning algorithm that learns from labeled data. Labeled data is data that has be tagged with a correct answer or classification.
 Types of Supervised Learning
 Supervised learning is classified into two categories of algorithms: 
 i. Regression: A regression problem is when the output variable is a real value, such as “dollars” or “weight”.
