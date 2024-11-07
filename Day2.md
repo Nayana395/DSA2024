@@ -34,3 +34,8 @@ Deep learing models use three or more layers often hundred or thousands to train
 ```
 Data Science is an interdisciplinary field that uses statistics, computer science, artificial intelligence, machine learning, visualization, etc.
 ```
+### Machine Learning
+```
+Machine Learning is the field of study that gives computers the capability to learn without being explicitly programmed.
+It can be divided into two: Supervised Language and Unsupervised Language.
+Supervised Language: 
