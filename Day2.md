@@ -1,6 +1,8 @@
-# Day 2
+# Day 3
 ## 30/10/2024
-
+```
+On the third day our mentor explained the history of AI Some terms, events and works that leads into Artificial intelligance. Next step hi explained Data Science & Machine Learning  and Python programme & libraries used.
+```
 ### Enigma Machine
 ```
 The Enigma Machine is a cipher device developed and used in the early-to-mid  20th century to protect commercial, diplomatic and military communication.
@@ -38,8 +40,29 @@ Data Science is an interdisciplinary field that uses statistics, computer scienc
 ```
 Machine Learning is the field of study that gives computers the capability to learn without being explicitly programmed.
 It can be divided into two: Supervised Language and Unsupervised Language.
-Supervised Language: Supervised language is a type of machine learning algorithm that learns from labeled data. Labeled data is data that has be tagged with a correct answer or classification.
-** Types of Supervised Learning **
+1. Supervised Language: Supervised language is a type of machine learning algorithm that learns from labeled data. Labeled data is data that has be tagged with a correct answer or classification.
+Types of Supervised Learning
 Supervised learning is classified into two categories of algorithms: 
 i. Regression: A regression problem is when the output variable is a real value, such as “dollars” or “weight”.
 ii. Classification: A classification problem is when the output variable is a category, such as “Red” or “blue” , “disease” or “no disease”.
+2. Unsupervised Learning
+Unsupervised learning is classified into twomcategories of algorithms:
+i. Clustering: A clustering problem is where you want to discover the inherent grouping in the data, such as grouping customers by purchasing behaviour.
+ii. Association: An association rule learning problem is where you want to discover rules that describe large portions of yout data, such as people that buy X also tend to buy Y.
+```
+### PYTHON
+```
+Python is a versatile and widely used programming language with many applications. Its known for its easy-to-read syntax and broad range of libraries and frameworks.
+```
+### NumPy
+```
+NumPy is a library for the Python programming language, adding support for large, multidimentional arrays and matrics along with a large collection of high-level mathematical functions to operate on these arrays.
+```
+### Pandas
+```
+Pandas is a Python library for data analysis and manipulation. It is fast, powerful, flexible and easy to use and has a large community and ecosystem of support.
+```
+### Scikit Learn
+```
+Scikit Learn is a Python module for machine learning. It is an open-source python library that implements a range of machine learning, pre-processing cross-validation and visualization algorithms using a unified interface.
+```
