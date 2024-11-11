@@ -44,3 +44,11 @@ The IQR is an especiallyt good measure of variability for skewed distributions o
 Skewness is a measure of the asymmetry of a distribution. A distribution is asymmetrical when its left and right side are not mirror images.
 Outlier is a value or point that differs substantially from the rest of the data.
 ```
+### Standard Deviation
+```
+Standard deciation is ameasure that is used to quantify the amount of variation or dispersion of a set of data values.
+* It is an important method of measuring statistical deviation.
+* It is the measure of the extent to which the numbers in a statistical series are spread from their arithmetic mean.
+```
+### Variance
+```
