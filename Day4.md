@@ -36,3 +36,11 @@ Third Quartile (75th percentile)
 It is alson known as Q3 or the upper quartile. This is the nmber halfway between the middle number and the highest number.
 ```
 ### Interquartile Range.                                                                                                            
+```
+The distance between the first and third quartiles- the interquartile range is a measure of variability. It indicates the spread of the middle 50% of the data.
+IQR = Q3- Q1
+The IQR is an especiallyt good measure of variability for skewed distributions or distributions with outliers. IQR only includes the middle 50% of the data.
+
+Skewness is a measure of the asymmetry of a distribution. A distribution is asymmetrical when its left and right side are not mirror images.
+Outlier is a value or point that differs substantially from the rest of the data.
+```
