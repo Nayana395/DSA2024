@@ -52,3 +52,9 @@ Standard deciation is ameasure that is used to quantify the amount of variation 
 ```
 ### Variance
 ```
+Variance is the squared deviation of values in a statistical series from its arithmetic mean.
+```
+### Measure of Dispersion
+```
+Measure of dispersion are used to represent the scattering of data. These are the numbers that show the various aspects of the data spread across various parameters.
+```
