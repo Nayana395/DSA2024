@@ -10,13 +10,13 @@ iii. Mode
 ### Mean/ Arithmetic Average
 ```
 Mean is commonly used when the data is symmetrically distributed.
-Mean = Sum of all the values / Total no. of values                                                                                                                                                                                                                                      
+Mean = Sum of all the values / Total no. of values                                                                                           
 ```
-Median
+### Median
 Median is used when the data is skewed. The median is the middle value when the dataset is arranged in ascending or descending order.
 Median =  n = 1 / 2
 ```
-### Mode
+#### Mode
 ```
 The mode is the value that occurs most frequently in the dataset. The mode can be applied to both numerical and categorical data. It's useful for identifying the most common value in a dataset.
 ```
@@ -24,8 +24,7 @@ The mode is the value that occurs most frequently in the dataset. The mode can b
 ```
 The Range is the difference between the highest and lowest values in the dataset.
 ```
-###
-Quartiles
+### Quartiles
 ```
 Quartiles are three values that split sorted data into four parts, each with an equal number of observations.
 i. First Quartile
