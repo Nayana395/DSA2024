@@ -19,7 +19,8 @@ Median =  n = 1 / 2
 ```
 ### Mode
 ```
-The mode is the value that occurs most frequently in the dataset. The mode can be applied to both numerical and categorical data. It's useful for identifying the most common value in a dataset.
+The mode is the value that occurs most frequently in the dataset. The mode can be applied to both numerical and categorical data.
+It's useful for identifying the most common value in a dataset.
 ```
 ### Range
 ```
