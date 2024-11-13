@@ -57,4 +57,19 @@ Variance is the squared deviation of values in a statistical series from its ari
 ### Measure of Dispersion
 ```
 Measure of dispersion are used to represent the scattering of data. These are the numbers that show the various aspects of the data spread across various parameters.
+
+Absolute Measure of Dispersion
+The measure of dispersion thast are measured and expressed in the units of data themselves.
+i. Range: It is defined as the differencew between the largest and the smallest value in the distribution.
+ii. Mean Deviation: It is the arithmetic mean of the difference between the values and their mean.
+iii. Standard Deviation: It is the square root of the arithmetic average of the square of the deviations measured from the mean.
+iv. Variance: It is defined as the average of the square deviation from the mean of the given data set.
+v. Quartile Deviation: It is defined as half of the difference between the third quartile and the first quartile in a given data set.
+
+Relative Measure of Dispersion
+Relative measure of dispersion to measure the two quantities that have different units to get a better idea about the scattering of the data.
+i. Coefficient of Range: It is defined as the ratio of the difference between the highest and lowest value in a data set to the sum of the highest and lowest value.
+ii. Coefficient of Variation: IT is defined as the ratio of the standard deviation to the mean of the data set. Percentage is used to measure Variation.
+iii. Coefficient of Mean Deviation: It is defined as the ratio of the mean deviation to the value of the central point of the dataset.
+iv. Coefficient of Quartile Deviation: It is defined as the ratio of the difference between the third quartile and the first quartile to the sum of the third and first quartile.
 ```
