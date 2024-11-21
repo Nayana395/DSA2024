@@ -7,7 +7,7 @@ JOIN and Natural join
   * JOIN movie_genre g
   * ON  m.id=g.movie_id
   * LIMIT 20;
-INNER JOIN examplew:
+**INNER JOIN examplew:**
 
 SELECT Table.ID, Table.name, B.course
 FROM Table A
