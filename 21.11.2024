@@ -41,3 +41,29 @@ FROM Table A
 NATURAL JOIN Table B
 FULL OUTER JOIN Table B
 ON A.ID=B.ID
+
+
+Practice with Hacker Rank
+Sub-queries or Nested Queries or Inner Queries
+SELECT actor_id FROM roles WHERE movie_id IN
+
+IN, NOT IN, EXISTS, NOT EXISTS, ANY, ALL,   Comparison operators
+
+CREATE, READ, UPDATE, DELETE (CRUD)
+CREATE
+  CREATE TABLE table_name(
+col1 col1_dtype,
+col2 cole2_dtype,
+);
+
+
+insert
+INSERT INTO movies(id, name, year, rankscore)VALUES (412321, 'Thor', 2011, 7);
+
+ALTER: IS USED TO MODIFY THE STRUCTURE ofn the table.
+
+DELETE 
+DELETE FROM movies WHERE ID=42543543
+
+DROP
+dELETE both table and all of the data permenently
