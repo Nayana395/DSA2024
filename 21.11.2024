@@ -7,3 +7,37 @@ JOIN and Natural join
   * JOIN movie_genre g
   * ON  m.id=g.movie_id
   * LIMIT 20;
+INNER JOIN examplew:
+
+SELECT Table.ID, Table.name, B.course
+FROM Table A
+INNER JOIN Table B
+ON A.ID=B.ID
+LIMIT 20;
+
+LEFT JOIN Example
+SELECT Table.ID, Table.name, B.course
+FROM Table A
+LEFT JOIN Table B
+ON A.ID=B.ID
+LIMIT 20;
+
+RIGHT JOIN Example
+SELECT Table.ID, Table.name, B.course
+FROM Table A
+RIGHT JOIN Table B
+ON A.ID=B.ID
+
+
+FULL OUTER JOIN Example
+SELECT Table.ID, Table.name, TableB.course
+FROM Table A
+FULL OUTER JOIN Table B
+ON A.ID=B.ID
+
+NATURAL JOIN Example
+SELECT Table.ID, Table.name, TableB.course
+FROM Table A
+NATURAL JOIN Table B
+FULL OUTER JOIN Table B
+ON A.ID=B.ID
