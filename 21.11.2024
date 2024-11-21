@@ -1,0 +1,9 @@
+# SQL
+```
+JOIN and Natural join
+  - combine data in multiple tables
+  * SELECT m.name , g.genre
+  * FROM movies m
+  * JOIN movie_genre g
+  * ON  m.id=g.movie_id
+  * LIMIT 20;
