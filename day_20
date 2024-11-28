@@ -4,9 +4,13 @@
 	- discrete
 	- Classification and Regression
 
-Visualization
-	- Matplotlib
-		- Figures
+### Visualization
+```
+Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an 
+accessible way to see and understand trends, outliers, and patterns in data
+	- Matplotlib : Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. 
+		       Matplotlib makes easy things easy and hard things possible.
+		- Figures :  The figure is the blue region and add_subplot has added an Axes artist to the Figure (see Parts of a Figure).
 		- Axis labels
 		- Sub-figures
 		- Ticks
