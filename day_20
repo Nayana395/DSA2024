@@ -1,1 +1,46 @@
+# Day_20
+## Datatypes
+	- continuous
+	- discrete
+	- Classification and Regression
 
+Visualization
+	- Matplotlib
+		- Figures
+		- Axis labels
+		- Sub-figures
+		- Ticks
+
+	Type of Plots
+		- Line plot
+		- Bar Charts
+		- Pie Charts
+		- Histogram
+		- CDF plot
+		- KDE plot
+		- Scatter plot 
+			- with color
+		- Heatmaps
+		- Box plots
+	- Seaborn
+
+Feature Extraction and Transformation
+
+Features and Labels
+
+Featurization
+	- Text data
+		- BoW
+		- TFIDF
+
+Feature Engineering
+	
+	- Feature Orthogonality
+		- Cosine Similarity
+	- Feature Colinearity
+	- Feature Slicing
+	- Indicator Variable
+	- Feature Binning
+	- Mathematical Transforms
+		- Logarithms
+		- FFT & STFT 
