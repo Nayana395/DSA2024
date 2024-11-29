@@ -1,8 +1,18 @@
 # Day_20
 ## Datatypes
-	- continuous
-	- discrete
-	- Classification and Regression
+```
+i. Continuous Variable
+			 A continuous variable can take any value within a range. For example, the height of a person can be 170 cm, 170.1 cm, or 170.12345 cm.
+		        Measured, Not Counted: Continuous variables are typically measured using tools like rulers, scales, or thermometers.
+		        Includes Decimal Values: These variables allow for fractional or decimal values.
+                        Eg: Height, Weight, Temperature, Time etc.,
+ii. Discrete
+			Distinct Values: Discrete variables take on specific, separate values (e.g., 1, 2, 3).
+		        Countable: The values can be counted, and there is no intermediate value between two discrete values.
+		        No Fractions or Decimals: Discrete variables usually do not take fractional or decimal values. (E.g., you can't have 2.5 cars or 1.75 students.)
+		        Eg: Number of cars, Number of heads when flipping two coins
+			
+iii. Classification and Regression
 
 ### Visualization
 ```
@@ -31,7 +41,16 @@ accessible way to see and understand trends, outliers, and patterns in data
 Feature Extraction and Transformation
 
 Features and Labels
-
+Features: Features are the input variables or attributes used by the model to make predictions.
+	  They represent the independent variables in the dataset.
+	  A feature can be numeric (e.g., age, height) or categorical (e.g., gender, city).
+	  Examples:
+ For classification tasks:
+ Email Spam Detection: Features could be the email text length, number of links, presence of specific words, etc.
+ Image Recognition: Features are pixel values or extracted patterns from the image.
+ For regression tasks:
+ Predicting House Prices: Features could include square footage, number of bedrooms, location, etc.
+ Predicting Temperature: Features could include time of year, humidity, and altitude.
 Featurization
 	- Text data
 		- BoW
