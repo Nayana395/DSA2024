@@ -13,7 +13,7 @@ ii. Discrete
 		        Eg: Number of cars, Number of heads when flipping two coins
 			
 iii. Classification and Regression
-
+```
 ### Visualization
 ```
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an 
@@ -26,16 +26,16 @@ accessible way to see and understand trends, outliers, and patterns in data
 		- Ticks
 
 	Type of Plots
-		- Line plot
-		- Bar Charts
-		- Pie Charts
-		- Histogram
-		- CDF plot
-		- KDE plot
-		- Scatter plot 
+		i. Line plot
+		ii. Bar Charts
+		iii. Pie Charts
+		iv. Histogram
+		v. CDF plot
+		vi. KDE plot
+		vii. Scatter plot 
 			- with color
-		- Heatmaps
-		- Box plots
+		viii. Heatmaps
+		ix. Box plots
 	- Seaborn
 
 Feature Extraction and Transformation
@@ -45,25 +45,35 @@ Features: Features are the input variables or attributes used by the model to ma
 	  They represent the independent variables in the dataset.
 	  A feature can be numeric (e.g., age, height) or categorical (e.g., gender, city).
 	  Examples:
- For classification tasks:
- Email Spam Detection: Features could be the email text length, number of links, presence of specific words, etc.
- Image Recognition: Features are pixel values or extracted patterns from the image.
- For regression tasks:
- Predicting House Prices: Features could include square footage, number of bedrooms, location, etc.
- Predicting Temperature: Features could include time of year, humidity, and altitude.
-Featurization
+ 		For classification tasks:
+		Email Spam Detection: Features could be the email text length, number of links, presence of specific words, etc.
+ 		Image Recognition: Features are pixel values or extracted patterns from the image.
+	  	For regression tasks:
+ 		Predicting House Prices: Features could include square footage, number of bedrooms, location, etc.
+ 		Predicting Temperature: Features could include time of year, humidity, and altitude.
+```
+### Featurization
+```
+Converting non-numeric data into numerical vector
+*   Featurization is often done by domain experts/researchers in that specific field.
+*   This is often resulted from many decades of research findings.
+*   When you are working on any specific domain, you will have to discuss with domain experts.
+*  Read Scientific Literature
+*  Deep learning: Automaticall learn correct featurization with lots of data
 	- Text data
 		- BoW
 		- TFIDF
 
 Feature Engineering
-	
 	- Feature Orthogonality
 		- Cosine Similarity
 	- Feature Colinearity
 	- Feature Slicing
+		Feature slicing: Breaking down a product's features into separate components, or "slices," for independent development.
 	- Indicator Variable
 	- Feature Binning
+		Feature binning: A feature engineering technique that groups different numerical subranges into bins or buckets.
 	- Mathematical Transforms
 		- Logarithms
 		- FFT & STFT 
+```
